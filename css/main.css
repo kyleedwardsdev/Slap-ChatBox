@@ -1,4 +1,4 @@
-.navleft a {
+.nav a {
   color: #5a5a5a;
   font-size: 11px;
   font-weight: bold;
@@ -6,18 +6,6 @@
   text-transform: uppercase;
 }
 
-.navleft li {
-  display: inline;
-}
-
-.navright a {
-  color: #5a5a5a;
-  font-size: 11px;
-  font-weight: bold;
-  padding: 14px 10px;
-  text-transform: uppercase;
-}
-
-.navleft li {
+.nav li {
   display: inline;
 }
